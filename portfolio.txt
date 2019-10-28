@@ -1,0 +1,39 @@
+Portfolio format
+
+1. Intro / Header
+2. Personal Data
+3. Educational Attainment
+4. Pre-Proffessional Experience
+5. Skills. Web Development / Full Stack Development / Personality Skills
+6. Seminars and Trainings attended
+7. Footer
+
+My role in Imergex
+1. Update the existing wordpress website with new contents and functions
+2. Optimize and maintain the accessibility of the website
+3. Developed a website in one of companies projects
+4. Collaborate with co-workers in their ongoing projects
+
+Skills
+
+Web Development
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+
+
+FullStack
+MongoDB
+Express.js 
+React.js 
+Node.js 
+
+Frameworks
+Materialize 
+BootStrap
+
+Others
+PowerDirector
+AdobePremiere
